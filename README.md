@@ -111,8 +111,8 @@ npm run add-dev YOUR_ID
 
 <img src="https://cdn.discordapp.com/emojis/809085860632985630.png" width="15px" height="15px"> 》[Sponsor](https://github.com/sponsors/Austin-Westphal)
 
-[version-shield]: https://img.shields.io/github/package-json/v/Austin-Westphal/Discord-Bot?style=for-the-badge
-[version-url]: 1.0.0
+[version-shield]: 1.0.0
+[version-url]: https://github.com/brblacky/WaveMusic
 [contributors-shield]: https://img.shields.io/github/contributors/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
 [contributors-url]: https://github.com/Austin-Westphal/Discord-Bot/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
