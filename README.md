@@ -1,5 +1,5 @@
 
-[![Version][version-shield]](version)
+[![Version][version-shield]](version-url)
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
