@@ -47,7 +47,7 @@ if (process.env.TOPGG_TOKEN) {
 console.clear();
 console.log(chalk.blue(chalk.bold(`System`)), (chalk.white(`>>`)), (chalk.green(`Starting up`)), (chalk.white(`...`)))
 console.log(`\u001b[0m`)
-console.log(chalk.red(`© CorwinDev | 2021 - ${new Date().getFullYear()}`))
+console.log(chalk.red(`© RapidDevs | 2021 - ${new Date().getFullYear()}`))
 console.log(chalk.red(`All rights reserved`))
 console.log(`\u001b[0m`)
 console.log(`\u001b[0m`)
