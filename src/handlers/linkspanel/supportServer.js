@@ -21,8 +21,8 @@ module.exports = async (client) => {
                                     value: "support-linkspanel",
                                 },
                                 {
-                                    label: `Invite Bot`,
-                                    description: `Invite Bot to your server`,
+                                    label: `Invite Rapid Star`,
+                                    description: `Invite Rapid Star to your server`,
                                     emoji: "📨",
                                     value: "invite-linkspanel",
                                 },
@@ -51,7 +51,7 @@ module.exports = async (client) => {
 
                 client.embed({
                     title: `❓・Support Server`,
-                    desc: `Make your server even better with Bot!`,
+                    desc: `Make your server even better with Rapid Star!`,
                     image: "https://cdn.discordapp.com/attachments/843487478881976381/874694194474668052/Bot_banner_invite.jpg",
                     url: client.config.discord.serverInvite,
                     components: [row2, row],
