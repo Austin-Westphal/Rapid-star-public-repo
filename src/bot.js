@@ -68,13 +68,13 @@ if (clientID && clientSecret) {
             {
                 host: process.env.LAVALINK_HOST || "lava.link",
                 port: parseInt(process.env.LAVALINK_PORT) || 80,
-                password: process.env.LAVALINK_PASSWORD || "CorwinDev",
+                password: process.env.LAVALINK_PASSWORD || "RapidDevs",
                 secure: Boolean(process.env.LAVALINK_SECURE) || false
             },
             {
-                host: "lavalink.techpoint.world",
+                host: "lavalink.rapidstar.world",
                 port: 80,
-                password: "techpoint"
+                password: "rapidstar"
             },
         ],
         send(id, payload) {
@@ -95,7 +95,7 @@ if (clientID && clientSecret) {
             {
                 host: process.env.LAVALINK_HOST || "lava.link",
                 port: parseInt(process.env.LAVALINK_PORT) || 80,
-                password: process.env.LAVALINK_PASSWORD || "CorwinDev",
+                password: process.env.LAVALINK_PASSWORD || "RapidDevs",
                 secure: Boolean(process.env.LAVALINK_SECURE) || false
             },
         ],
