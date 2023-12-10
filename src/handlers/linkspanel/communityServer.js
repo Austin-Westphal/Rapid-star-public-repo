@@ -21,8 +21,8 @@ module.exports = async (client) => {
                                     value: "support-linkspanel",
                                 },
                                 {
-                                    label: `Invite Bot`,
-                                    description: `Invite Bot to your server`,
+                                    label: `Invite Rapid Star`,
+                                    description: `Invite Rapid Star to your server`,
                                     emoji: "📨",
                                     value: "invite-linkspanel",
                                 },
@@ -46,7 +46,7 @@ module.exports = async (client) => {
 
                         new Discord.ButtonBuilder()
                             .setLabel("Community Server")
-                            .setURL("https://discord.gg/jf6ZkpgsXF")
+                            .setURL("https://discord.gg/")
                             .setStyle(Discord.ButtonStyle.Link),
                     );
 
