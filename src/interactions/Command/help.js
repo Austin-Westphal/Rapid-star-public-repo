@@ -7,7 +7,7 @@ require("moment-duration-format");
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('help')
-        .setDescription('Get help with the bot'),
+        .setDescription('Get command list for Rapid Star'),
 
     /** 
      * @param {Client} client
@@ -25,13 +25,13 @@ module.exports = {
                     .addOptions([
                         {
                             label: `Commands`,
-                            description: `Show the commands of Bot!`,
+                            description: `Show the commands for Rapid Star!`,
                             emoji: "💻",
                             value: "commands-Bothelp",
                         },
                         {
                             label: `Invite`,
-                            description: `Invite Bot to your server`,
+                            description: `Invite Rapid Star to your server`,
                             emoji: "📨",
                             value: "invite-Bothelp",
                         },
@@ -43,7 +43,7 @@ module.exports = {
                         },
                         {
                             label: `Changelogs`,
-                            description: `Show the bot changelogs`,
+                            description: `Show Rapid Star changelogs`,
                             emoji: "📃",
                             value: "changelogs-Bothelp",
                         },
@@ -52,7 +52,7 @@ module.exports = {
 
         return client.embed({
             title: `❓・Help panel`,
-            desc: `Welcome to Bot's help panel! We have made a small overview to help you! Make a choice via the menu below`,
+            desc: `Welcome to Rapid Stae's help panel! We have made a small overview to help you! Make a choice via the menu below`,
             image: "https://cdn.discordapp.com/attachments/843487478881976381/874694194474668052/Bot_banner_invite.jpg",
             fields: [
                 {
@@ -65,7 +65,7 @@ module.exports = {
                 },
                 {
                     name: `🔗┆Links`,
-                    value: `[Website](https://corwindev.nl/) | [Invite](${client.config.discord.botInvite}) | [Vote](https://top.gg/bot/798144456528363550/vote)`
+                    value: `[Website](https://www.rapiddevs.com/) | [Invite](${client.config.discord.botInvite}) | [Vote](https://topgg.org)`
                 },
             ],
             components: [row],
