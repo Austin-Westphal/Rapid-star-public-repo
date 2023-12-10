@@ -21,8 +21,8 @@ module.exports = async (client) => {
                                     value: "support-linkspanel",
                                 },
                                 {
-                                    label: `Invite Bot`,
-                                    description: `Invite Bot to your server`,
+                                    label: `Invite Rapid Star`,
+                                    description: `Invite Rapid Star to your server`,
                                     emoji: "📨",
                                     value: "invite-linkspanel",
                                 },
@@ -44,14 +44,14 @@ module.exports = async (client) => {
                 let row = new Discord.ActionRowBuilder()
                     .addComponents(
                         new Discord.ButtonBuilder()
-                            .setLabel("Bot Invite")
+                            .setLabel("Rapid Star Invite")
                             .setURL(client.config.discord.botInvite)
                             .setStyle(Discord.ButtonStyle.Link),
                     );
 
                 client.embed({
-                    title: `📨・Bot Invite`,
-                    desc: `Make your server even better with Bot!`,
+                    title: `📨・Rapid Star Invite`,
+                    desc: `Make your server even better with Rapid Star!`,
                     image: "https://cdn.discordapp.com/attachments/843487478881976381/874694194474668052/Bot_banner_invite.jpg",
                     url: client.config.discord.serverInvite,
                     components: [row2, row],
