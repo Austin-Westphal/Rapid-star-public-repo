@@ -9,8 +9,8 @@
 
 <br />
 
-<!--[![Run on Repl.it](https://repl.it/badge/github/CorwinDev/Discord-Bot)](https://replit.com/@CorwinDeveloper/Discord-Bot-v14?v=1)
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/CorwinDev/Discord-Bot)-->
+<!--[![Run on Repl.it](https://repl.it/badge/github/Austin-Westphal/Discord-Bot)](https://replit.com/@trustingod/Discord-Bot-v14?v=1)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/RapidDevs/Discord-Bot)-->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -22,7 +22,7 @@
   <h3 align="center">Rapid Star V1.0.0.0A Beta</h3>
 
   <p align="center">
-    Rapid Star Beta V1 is an updated version of The Original Rapid Star Bot, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br> Unfortunately the owners stopped at the peak and decided to put the source online of which I made an updated version.
+    Rapid Star Beta V1 is an updated version of The Original Rapid Star Bot, an advanced Discord multipurpose bot containing more than 400 commands.<br> It can do Moderation, Tickets, Radio, Games, Giveaways, Customisation, Economy, Leveling, Invites, Messages, Utilities, Suggestions, Server Stats etc.<br>
     <br />
     <br />
     <a href="https://github.com/Austin-Westphal/rapid-star-bot-v1-0-0/issues">Report Bug</a>
@@ -60,7 +60,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 ## <img src="https://cdn.discordapp.com/emojis/1028680849195020308.png" width="25px" height="25px">》Screenshots
 <br />
 <p align="center">
-  <a href="https://github.com/corwindev/discord-bot">
+  <a href="https://github.com/Austin-Westphal/rapid-star-bot-v1-0-0">
     <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
   </a>
 </p>
@@ -97,7 +97,7 @@ node src/index.js
 ## <img src="https://cdn.discordapp.com/emojis/1036083490292244493.png" width="15px" height="15px">》Support Server
 [![DiscordBanner](https://invidget.switchblade.xyz/techpoint-1016942011024158782)](https://discord.gg/techpoint-1016942011024158782)
 
-[Support Server](https://discord.gg/techpoint-1016942011024158782) - Discord-Bot's Support Server Invite
+[Support Server](https://discord.gg) - Rapid Star's Support Server Invite - COMING SOON
 
 # <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Faq
 > How to get access to Developers Commands? You will have to set them up via MongoDB or run the below command.
@@ -116,10 +116,10 @@ npm run add-dev YOUR_ID
 [contributors-shield]: https://img.shields.io/github/contributors/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
 [contributors-url]: https://github.com/Austin-Westphal/Discord-Bot/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
-[forks-url]: https://github.com/Corwindev/Discord-Bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Corwindev/Discord-Bot.svg?style=for-the-badge
-[stars-url]: https://github.com/Corwindev/Discord-Bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Corwindev/Discord-Bot.svg?style=for-the-badge
-[issues-url]: https://github.com/Corwindev/Discord-Bot/issues
-[license-shield]: https://img.shields.io/github/license/Corwindev/Discord-Bot.svg?style=for-the-badge
-[license-url]: https://github.com/Corwindev/Discord-Bot/blob/master/LICENSE
+[forks-url]: https://github.com/Austin-Westphal/Discord-Bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
+[stars-url]: https://github.com/Austin-Westphal/Discord-Bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
+[issues-url]: https://github.com/Austin-Westphal/Discord-Bot/issues
+[license-shield]: https://img.shields.io/github/license/Austin-Westphal/Discord-Bot.svg?style=for-the-badge
+[license-url]: https://github.com/Austin-Westphal/Discord-Bot/blob/master/LICENSE
