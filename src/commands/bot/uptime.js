@@ -8,7 +8,7 @@ module.exports = async (client, interaction, args) => {
 
     client.embed({
         title: `${client.emotes.normal.arrowUp}・Uptime`,
-        desc: `See the uptime of Bot`,
+        desc: `See the uptime of Rapid Star`,
         fields: [
             {
                 name: "⌛┇Uptime",
