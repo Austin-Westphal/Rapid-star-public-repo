@@ -14,8 +14,8 @@ module.exports = async (client, interaction, args) => {
                         value: "support-linkspanel",
                     },
                     {
-                        label: `Invite Bot`,
-                        description: `Invite Bot to your server`,
+                        label: `Invite Rapid Star`,
+                        description: `Invite Rapid Star to your server`,
                         emoji: "📨",
                         value: "invite-linkspanel",
                     },
