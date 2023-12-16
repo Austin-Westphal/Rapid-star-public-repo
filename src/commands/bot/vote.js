@@ -9,8 +9,8 @@ module.exports = async (client, interaction, args) => {
     let row = new Discord.ActionRowBuilder()
         .addComponents(
             new Discord.ButtonBuilder()
-                .setLabel("Vote for me")
-                .setURL("https://top.gg/bot/798144456528363550/vote")
+                .setLabel("Vote for me - coming soon")
+                .setURL("https://top.gg/")
                 .setStyle(Discord.ButtonStyle.Link),
         );
 
