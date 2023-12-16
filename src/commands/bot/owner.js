@@ -7,22 +7,22 @@ module.exports = async (client, interaction, args) => {
         thumbnail: client.user.avatarURL({ dynamic: true, size: 1024 }),
         fields: [{
             name: "👑┆Owner name",
-            value: `Corwin`,
+            value: `DevAustin`,
             inline: true,
         },
         {
             name: "🏷┆Discord tag",
-            value: `</Corwin>#0001`,
+            value: `devaustin`,
             inline: true,
         },
         {
             name: "🏢┆Organization",
-            value: `CoreWare`,
+            value: `RapidDevs`,
             inline: true,
         },
         {
             name: "🌐┆Website",
-            value: `[https://corwindev.nl](https://corwindev.nl)`,
+            value: `[https://www.rapiddevs.com](https://www.rapiddevs.com)`,
             inline: true,
         }],
         type: 'editreply'
