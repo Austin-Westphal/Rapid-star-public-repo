@@ -19,13 +19,13 @@ module.exports = async (client, interaction, args) => {
             const duration = moment.duration(client.uptime).format("\`D\` [days], \`H\` [hrs], \`m\` [mins], \`s\` [secs]");
 
             client.embed({
-                title: `ℹ・Bot information`,
+                title: `ℹ・Rapid Star information`,
                 desc: `____________________________`,
                 thumbnail: client.user.avatarURL({ size: 1024 }),
                 fields: [
                {
                     name: "ℹ️┆Information",
-                    value: `Bot is a bot with which you can run your entire server! With no less than 350+ commands, we have a large bot with many options to improve your server!`,
+                    value: `Rapid Star is a bot with which you can run your entire server! With no less than 350+ commands, we have a large bot with many options to improve your server!`,
                     inline: false,
                 },
                 {
@@ -50,12 +50,12 @@ module.exports = async (client, interaction, args) => {
                 },
                 {
                     name: "🔧┆Bot owner",
-                    value: `<@!755297485328482356> `,
+                    value: `DevAustin | devaustin `,
                     inline: true,
                 },
                 {
                     name: "🔧┆Bot developer",
-                    value: `<@!755297485328482356> <@!884553151666061372>`,
+                    value: `DevAustin and RapidDevs`,
                     inline: true,
                 },
                 {
@@ -69,7 +69,7 @@ module.exports = async (client, interaction, args) => {
                     inline: true,
                 },
                 {
-                    name: "🌐┆Servers this shard",
+                    name: "🌐┆Servers in this shard",
                     value: `\`${client.guilds.cache.size}\` servers`,
                     inline: true,
                 },
