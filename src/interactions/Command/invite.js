@@ -5,7 +5,7 @@ const Discord = require('discord.js');
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('invite')
-        .setDescription('Get an invite to the bot'),
+        .setDescription('Get an invite to Rapid Star Support Server'),
 
     /** 
      * @param {Client} client
@@ -30,7 +30,7 @@ module.exports = {
 
         client.embed({
             title: `📨・Invite`,
-            desc: `Make your server even better with Bot!`,
+            desc: `Make your server even better with Rapid Star!`,
             image: "https://cdn.discordapp.com/attachments/843487478881976381/874694194474668052/Bot_banner_invite.jpg",
             url: client.config.discord.botInvite,
             components: [row],
