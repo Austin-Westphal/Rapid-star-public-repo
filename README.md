@@ -61,7 +61,7 @@ If you like this repository, feel free to leave a star ⭐ to motivate me!
 <br />
 <p align="center">
   <a href="https://github.com/Austin-Westphal/rapid-star-bot-v1-0-0">
-  ##  <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png">
+  <!--  <img src="https://cdn.discordapp.com/attachments/778665159316209748/1055832339328024666/207117434-d98356b1-bf19-418e-9e12-0ef83e0d9a21.png"> -->
   </a>
 </p>
 
